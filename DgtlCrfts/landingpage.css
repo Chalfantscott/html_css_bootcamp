@@ -1,0 +1,24 @@
+.header-top {
+    position: absolute;
+    top: 15px;
+    right: 140px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+p {
+    text-align: center;
+}
+.imageTags * {
+    margin-right: 50px; 
+}
+div1 {
+    text-align: center;
+}
+.cityImage {
+    text-align: center;
+}
+div3 {
+    display: inline-block;
+}
